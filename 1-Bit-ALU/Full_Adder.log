@@ -1,0 +1,4 @@
+Circuit: * C:\Users\HP\Desktop\vlsi lab\project\New folder\Full_Adder.asc
+
+Fatal Error: Voltage source V:AND4:§B and voltage source V:AND2:§B are paralleled making an over-defined circuit matrix.
+You will need to correct the circuit or add some series resistance.
